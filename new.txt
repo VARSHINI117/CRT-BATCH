@@ -1,0 +1,14 @@
+mkdir new 
+rmdir new
+mkdir new
+cd new
+touch numbers.txt
+echo {1...100}>>numbers.txt
+cd ..
+how to remove the 'new '
+rm -r new
+
+how to remove files in git?
+git rm filenAME
+git commit -m "removeal"
+git push -u pblink master
