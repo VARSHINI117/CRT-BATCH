@@ -1,0 +1,5 @@
+write code for addition of two numbers
+exp.py.file
+add the file to staging area
+commit
+push it git
