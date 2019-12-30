@@ -1,0 +1,18 @@
+git init
+git clone projectgitlink
+git config user.varshinithomas117@gmail.com
+git config user.varshini
+LocalArea Staging Area Github
+hello.txt
+hello1.txt
+hello2.txt
+git add filename
+git add *
+git add *.txt
+git add *.py
+
+git status 
+git remote add https://github.com/VARSHINI117/CRT-BATCH
+git remote add pblinkhttps://github.com/
+
+git commit -m 'added hello.txt'
